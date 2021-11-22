@@ -1,0 +1,217 @@
+,method,q2,q5,q8,dataset,object_class,metric,recall,order_key,norder_key
+0,BlazeIt,1.2941176470588234,1.2941176470588234,1.2941176470588234,bdd,bike,savings in frames,0.1,"('bdd', 'bike')",2
+1,random,1.0,1.0,1.0,bdd,bike,savings in frames,0.1,"('bdd', 'bike')",2
+2,this work,2.3783783783783776,2.3783783783783776,2.3783783783783776,bdd,bike,savings in frames,0.1,"('bdd', 'bike')",2
+3,random+,1.0797546012269938,1.0797546012269938,1.0797546012269938,bdd,bike,savings in frames,0.1,"('bdd', 'bike')",2
+4,BlazeIt,0.9668691330756486,0.9668691330756486,0.9668691330756486,bdd,bike,savings in frames,0.5,"('bdd', 'bike')",2
+5,random,1.0,1.0,1.0,bdd,bike,savings in frames,0.5,"('bdd', 'bike')",2
+6,this work,2.6814701378254204,2.6814701378254204,2.6814701378254204,bdd,bike,savings in frames,0.5,"('bdd', 'bike')",2
+7,random+,1.1340673575129532,1.1340673575129532,1.1340673575129532,bdd,bike,savings in frames,0.5,"('bdd', 'bike')",2
+8,BlazeIt,0.9956750658142157,0.9956750658142157,0.9956750658142157,bdd,bike,savings in frames,0.9,"('bdd', 'bike')",2
+9,random,1.0,1.0,1.0,bdd,bike,savings in frames,0.9,"('bdd', 'bike')",2
+10,this work,1.88501245995016,1.88501245995016,1.88501245995016,bdd,bike,savings in frames,0.9,"('bdd', 'bike')",2
+11,random+,1.0022714366837022,1.0022714366837022,1.0022714366837022,bdd,bike,savings in frames,0.9,"('bdd', 'bike')",2
+12,BlazeIt,0.12828156482544528,0.12828156482544528,0.12828156482544528,bdd,bike,time savings,0.1,"('bdd', 'bike')",2
+13,random,1.0,1.0,1.0,bdd,bike,time savings,0.1,"('bdd', 'bike')",2
+14,this work,2.3783783783783776,2.3783783783783776,2.3783783783783776,bdd,bike,time savings,0.1,"('bdd', 'bike')",2
+15,random+,1.0797546012269936,1.0797546012269936,1.0797546012269936,bdd,bike,time savings,0.1,"('bdd', 'bike')",2
+16,BlazeIt,0.5746669952328802,0.5746669952328802,0.5746669952328802,bdd,bike,time savings,0.5,"('bdd', 'bike')",2
+17,random,1.0,1.0,1.0,bdd,bike,time savings,0.5,"('bdd', 'bike')",2
+18,this work,2.6814701378254204,2.6814701378254204,2.6814701378254204,bdd,bike,time savings,0.5,"('bdd', 'bike')",2
+19,random+,1.1340673575129532,1.1340673575129532,1.1340673575129532,bdd,bike,time savings,0.5,"('bdd', 'bike')",2
+20,BlazeIt,0.8079057871382943,0.8079057871382943,0.8079057871382943,bdd,bike,time savings,0.9,"('bdd', 'bike')",2
+21,random,1.0,1.0,1.0,bdd,bike,time savings,0.9,"('bdd', 'bike')",2
+22,this work,1.88501245995016,1.88501245995016,1.88501245995016,bdd,bike,time savings,0.9,"('bdd', 'bike')",2
+23,random+,1.0022714366837022,1.0022714366837022,1.0022714366837022,bdd,bike,time savings,0.9,"('bdd', 'bike')",2
+24,BlazeIt,1.1983471074380168,1.1983471074380168,1.1983471074380168,bdd,bus,savings in frames,0.1,"('bdd', 'bus')",5
+25,random,1.0,1.0,1.0,bdd,bus,savings in frames,0.1,"('bdd', 'bus')",5
+26,this work,1.686046511627907,1.686046511627907,1.686046511627907,bdd,bus,savings in frames,0.1,"('bdd', 'bus')",5
+27,random+,1.178861788617886,1.178861788617886,1.178861788617886,bdd,bus,savings in frames,0.1,"('bdd', 'bus')",5
+28,BlazeIt,1.014172335600907,1.014172335600907,1.014172335600907,bdd,bus,savings in frames,0.5,"('bdd', 'bus')",5
+29,random,1.0,1.0,1.0,bdd,bus,savings in frames,0.5,"('bdd', 'bus')",5
+30,this work,1.9052183173588926,1.9052183173588926,1.9052183173588926,bdd,bus,savings in frames,0.5,"('bdd', 'bus')",5
+31,random+,1.165472312703583,1.165472312703583,1.165472312703583,bdd,bus,savings in frames,0.5,"('bdd', 'bus')",5
+32,BlazeIt,1.0220517737296262,1.0220517737296262,1.0220517737296262,bdd,bus,savings in frames,0.9,"('bdd', 'bus')",5
+33,random,1.0,1.0,1.0,bdd,bus,savings in frames,0.9,"('bdd', 'bus')",5
+34,this work,1.4467969598262762,1.4467969598262762,1.4467969598262762,bdd,bus,savings in frames,0.9,"('bdd', 'bus')",5
+35,random+,0.9927360774818405,0.9927360774818405,0.9927360774818405,bdd,bus,savings in frames,0.9,"('bdd', 'bus')",5
+36,BlazeIt,0.10685476905937237,0.10685476905937237,0.10685476905937237,bdd,bus,time savings,0.1,"('bdd', 'bus')",5
+37,random,1.0,1.0,1.0,bdd,bus,time savings,0.1,"('bdd', 'bus')",5
+38,this work,1.6860465116279069,1.6860465116279069,1.6860465116279069,bdd,bus,time savings,0.1,"('bdd', 'bus')",5
+39,random+,1.178861788617886,1.178861788617886,1.178861788617886,bdd,bus,time savings,0.1,"('bdd', 'bus')",5
+40,BlazeIt,0.596336908057868,0.596336908057868,0.596336908057868,bdd,bus,time savings,0.5,"('bdd', 'bus')",5
+41,random,1.0,1.0,1.0,bdd,bus,time savings,0.5,"('bdd', 'bus')",5
+42,this work,1.9052183173588926,1.9052183173588926,1.9052183173588926,bdd,bus,time savings,0.5,"('bdd', 'bus')",5
+43,random+,1.165472312703583,1.165472312703583,1.165472312703583,bdd,bus,time savings,0.5,"('bdd', 'bus')",5
+44,BlazeIt,0.8262307949853649,0.8262307949853649,0.8262307949853649,bdd,bus,time savings,0.9,"('bdd', 'bus')",5
+45,random,1.0,1.0,1.0,bdd,bus,time savings,0.9,"('bdd', 'bus')",5
+46,this work,1.446796959826276,1.446796959826276,1.446796959826276,bdd,bus,time savings,0.9,"('bdd', 'bus')",5
+47,random+,0.9927360774818405,0.9927360774818405,0.9927360774818405,bdd,bus,time savings,0.9,"('bdd', 'bus')",5
+48,BlazeIt,,1.1412446505438658,,bdd,geomean,savings in frames,0.1,"('bdd', 'geomean')",0
+49,random,,1.0,,bdd,geomean,savings in frames,0.1,"('bdd', 'geomean')",0
+50,this work,,1.8851049275556597,,bdd,geomean,savings in frames,0.1,"('bdd', 'geomean')",0
+51,random+,,1.1462007981406346,,bdd,geomean,savings in frames,0.1,"('bdd', 'geomean')",0
+52,BlazeIt,,0.9952246533653869,,bdd,geomean,savings in frames,0.5,"('bdd', 'geomean')",0
+53,random,,1.0,,bdd,geomean,savings in frames,0.5,"('bdd', 'geomean')",0
+54,this work,,2.179984698055061,,bdd,geomean,savings in frames,0.5,"('bdd', 'geomean')",0
+55,random+,,1.190230796130043,,bdd,geomean,savings in frames,0.5,"('bdd', 'geomean')",0
+56,BlazeIt,,1.0006796060055414,,bdd,geomean,savings in frames,0.9,"('bdd', 'geomean')",0
+57,random,,1.0,,bdd,geomean,savings in frames,0.9,"('bdd', 'geomean')",0
+58,this work,,1.5874667461584901,,bdd,geomean,savings in frames,0.9,"('bdd', 'geomean')",0
+59,random+,,1.0148620920316733,,bdd,geomean,savings in frames,0.9,"('bdd', 'geomean')",0
+60,BlazeIt,,0.12552343282185896,,bdd,geomean,time savings,0.1,"('bdd', 'geomean')",0
+61,random,,1.0,,bdd,geomean,time savings,0.1,"('bdd', 'geomean')",0
+62,this work,,1.8851049275556597,,bdd,geomean,time savings,0.1,"('bdd', 'geomean')",0
+63,random+,,1.1462007981406346,,bdd,geomean,time savings,0.1,"('bdd', 'geomean')",0
+64,BlazeIt,,0.6040735466618624,,bdd,geomean,time savings,0.5,"('bdd', 'geomean')",0
+65,random,,1.0,,bdd,geomean,time savings,0.5,"('bdd', 'geomean')",0
+66,this work,,2.17998469805506,,bdd,geomean,time savings,0.5,"('bdd', 'geomean')",0
+67,random+,,1.190230796130043,,bdd,geomean,time savings,0.5,"('bdd', 'geomean')",0
+68,BlazeIt,,0.8143615093497741,,bdd,geomean,time savings,0.9,"('bdd', 'geomean')",0
+69,random,,1.0,,bdd,geomean,time savings,0.9,"('bdd', 'geomean')",0
+70,this work,,1.58746674615849,,bdd,geomean,time savings,0.9,"('bdd', 'geomean')",0
+71,random+,,1.0148620920316733,,bdd,geomean,time savings,0.9,"('bdd', 'geomean')",0
+72,BlazeIt,1.0228571428571425,1.0228571428571425,1.0228571428571425,bdd,motor,savings in frames,0.1,"('bdd', 'motor')",3
+73,random,1.0,1.0,1.0,bdd,motor,savings in frames,0.1,"('bdd', 'motor')",3
+74,this work,1.9670329670329665,1.9670329670329665,1.9670329670329665,bdd,motor,savings in frames,0.1,"('bdd', 'motor')",3
+75,random+,1.0346820809248554,1.0346820809248554,1.0346820809248554,bdd,motor,savings in frames,0.1,"('bdd', 'motor')",3
+76,BlazeIt,0.9368635437881873,0.9368635437881873,0.9368635437881873,bdd,motor,savings in frames,0.5,"('bdd', 'motor')",3
+77,random,1.0,1.0,1.0,bdd,motor,savings in frames,0.5,"('bdd', 'motor')",3
+78,this work,2.4598930481283423,2.4598930481283423,2.4598930481283423,bdd,motor,savings in frames,0.5,"('bdd', 'motor')",3
+79,random+,1.251700680272109,1.251700680272109,1.251700680272109,bdd,motor,savings in frames,0.5,"('bdd', 'motor')",3
+80,BlazeIt,0.9926873857404022,0.9926873857404022,0.9926873857404022,bdd,motor,savings in frames,0.9,"('bdd', 'motor')",3
+81,random,1.0,1.0,1.0,bdd,motor,savings in frames,0.9,"('bdd', 'motor')",3
+82,this work,1.7885375494071145,1.7885375494071145,1.7885375494071145,bdd,motor,savings in frames,0.9,"('bdd', 'motor')",3
+83,random+,1.0189528992306247,1.0189528992306247,1.0189528992306247,bdd,motor,savings in frames,0.9,"('bdd', 'motor')",3
+84,BlazeIt,0.1268619995831901,0.1268619995831901,0.1268619995831901,bdd,motor,time savings,0.1,"('bdd', 'motor')",3
+85,random,1.0,1.0,1.0,bdd,motor,time savings,0.1,"('bdd', 'motor')",3
+86,this work,1.967032967032967,1.967032967032967,1.967032967032967,bdd,motor,time savings,0.1,"('bdd', 'motor')",3
+87,random+,1.0346820809248556,1.0346820809248556,1.0346820809248556,bdd,motor,time savings,0.1,"('bdd', 'motor')",3
+88,BlazeIt,0.5750032314128939,0.5750032314128939,0.5750032314128939,bdd,motor,time savings,0.5,"('bdd', 'motor')",3
+89,random,1.0,1.0,1.0,bdd,motor,time savings,0.5,"('bdd', 'motor')",3
+90,this work,2.4598930481283423,2.4598930481283423,2.4598930481283423,bdd,motor,time savings,0.5,"('bdd', 'motor')",3
+91,random+,1.251700680272109,1.251700680272109,1.251700680272109,bdd,motor,time savings,0.5,"('bdd', 'motor')",3
+92,BlazeIt,0.8097248078760192,0.8097248078760192,0.8097248078760192,bdd,motor,time savings,0.9,"('bdd', 'motor')",3
+93,random,1.0,1.0,1.0,bdd,motor,time savings,0.9,"('bdd', 'motor')",3
+94,this work,1.7885375494071143,1.7885375494071143,1.7885375494071143,bdd,motor,time savings,0.9,"('bdd', 'motor')",3
+95,random+,1.0189528992306247,1.0189528992306247,1.0189528992306247,bdd,motor,time savings,0.9,"('bdd', 'motor')",3
+96,BlazeIt,1.1824324324324325,1.1824324324324325,1.1824324324324325,bdd,person,savings in frames,0.1,"('bdd', 'person')",1
+97,random,1.0,1.0,1.0,bdd,person,savings in frames,0.1,"('bdd', 'person')",1
+98,this work,2.966101694915254,2.966101694915254,2.966101694915254,bdd,person,savings in frames,0.1,"('bdd', 'person')",1
+99,random+,1.215277777777778,1.215277777777778,1.215277777777778,bdd,person,savings in frames,0.1,"('bdd', 'person')",1
+100,BlazeIt,0.992588369441277,0.992588369441277,0.992588369441277,bdd,person,savings in frames,0.5,"('bdd', 'person')",1
+101,random,1.0,1.0,1.0,bdd,person,savings in frames,0.5,"('bdd', 'person')",1
+102,this work,3.0597539543057994,3.0597539543057994,3.0597539543057994,bdd,person,savings in frames,0.5,"('bdd', 'person')",1
+103,random+,1.2048442906574395,1.2048442906574395,1.2048442906574395,bdd,person,savings in frames,0.5,"('bdd', 'person')",1
+104,BlazeIt,0.9990562476406192,0.9990562476406192,0.9990562476406192,bdd,person,savings in frames,0.9,"('bdd', 'person')",1
+105,random,1.0,1.0,1.0,bdd,person,savings in frames,0.9,"('bdd', 'person')",1
+106,this work,1.7602261390089793,1.7602261390089793,1.7602261390089793,bdd,person,savings in frames,0.9,"('bdd', 'person')",1
+107,random+,1.0273680124223603,1.0273680124223603,1.0273680124223603,bdd,person,savings in frames,0.9,"('bdd', 'person')",1
+108,BlazeIt,0.1264467297282597,0.1264467297282597,0.1264467297282597,bdd,person,time savings,0.1,"('bdd', 'person')",1
+109,random,1.0,1.0,1.0,bdd,person,time savings,0.1,"('bdd', 'person')",1
+110,this work,2.966101694915254,2.966101694915254,2.966101694915254,bdd,person,time savings,0.1,"('bdd', 'person')",1
+111,random+,1.215277777777778,1.215277777777778,1.215277777777778,bdd,person,time savings,0.1,"('bdd', 'person')",1
+112,BlazeIt,0.5822777496126873,0.5822777496126873,0.5822777496126873,bdd,person,time savings,0.5,"('bdd', 'person')",1
+113,random,1.0,1.0,1.0,bdd,person,time savings,0.5,"('bdd', 'person')",1
+114,this work,3.0597539543057994,3.0597539543057994,3.0597539543057994,bdd,person,time savings,0.5,"('bdd', 'person')",1
+115,random+,1.2048442906574395,1.2048442906574395,1.2048442906574395,bdd,person,time savings,0.5,"('bdd', 'person')",1
+116,BlazeIt,0.8100726305282561,0.8100726305282561,0.8100726305282561,bdd,person,time savings,0.9,"('bdd', 'person')",1
+117,random,1.0,1.0,1.0,bdd,person,time savings,0.9,"('bdd', 'person')",1
+118,this work,1.7602261390089793,1.7602261390089793,1.7602261390089793,bdd,person,time savings,0.9,"('bdd', 'person')",1
+119,random+,1.0273680124223603,1.0273680124223603,1.0273680124223603,bdd,person,time savings,0.9,"('bdd', 'person')",1
+120,BlazeIt,1.0935672514619883,1.0935672514619883,1.0935672514619883,bdd,rider,savings in frames,0.1,"('bdd', 'rider')",4
+121,random,1.0,1.0,1.0,bdd,rider,savings in frames,0.1,"('bdd', 'rider')",4
+122,this work,1.9479166666666665,1.9479166666666665,1.9479166666666665,bdd,rider,savings in frames,0.1,"('bdd', 'rider')",4
+123,random+,1.206451612903226,1.206451612903226,1.206451612903226,bdd,rider,savings in frames,0.1,"('bdd', 'rider')",4
+124,BlazeIt,1.0122129946262823,1.0122129946262823,1.0122129946262823,bdd,rider,savings in frames,0.5,"('bdd', 'rider')",4
+125,random,1.0,1.0,1.0,bdd,rider,savings in frames,0.5,"('bdd', 'rider')",4
+126,this work,2.6128625472887768,2.6128625472887768,2.6128625472887768,bdd,rider,savings in frames,0.5,"('bdd', 'rider')",4
+127,random+,1.2790123456790123,1.2790123456790123,1.2790123456790123,bdd,rider,savings in frames,0.5,"('bdd', 'rider')",4
+128,BlazeIt,1.0142883311961897,1.0142883311961897,1.0142883311961897,bdd,rider,savings in frames,0.9,"('bdd', 'rider')",4
+129,random,1.0,1.0,1.0,bdd,rider,savings in frames,0.9,"('bdd', 'rider')",4
+130,this work,1.8737732656514383,1.8737732656514383,1.8737732656514383,bdd,rider,savings in frames,0.9,"('bdd', 'rider')",4
+131,random+,1.0419646217538578,1.0419646217538578,1.0419646217538578,bdd,rider,savings in frames,0.9,"('bdd', 'rider')",4
+132,BlazeIt,0.1329085928573365,0.1329085928573365,0.1329085928573365,bdd,rider,time savings,0.1,"('bdd', 'rider')",4
+133,random,1.0,1.0,1.0,bdd,rider,time savings,0.1,"('bdd', 'rider')",4
+134,this work,1.9479166666666672,1.9479166666666672,1.9479166666666672,bdd,rider,time savings,0.1,"('bdd', 'rider')",4
+135,random+,1.206451612903226,1.206451612903226,1.206451612903226,bdd,rider,time savings,0.1,"('bdd', 'rider')",4
+136,BlazeIt,0.6311335211500181,0.6311335211500181,0.6311335211500181,bdd,rider,time savings,0.5,"('bdd', 'rider')",4
+137,random,1.0,1.0,1.0,bdd,rider,time savings,0.5,"('bdd', 'rider')",4
+138,this work,2.612862547288777,2.612862547288777,2.612862547288777,bdd,rider,time savings,0.5,"('bdd', 'rider')",4
+139,random+,1.2790123456790126,1.2790123456790126,1.2790123456790126,bdd,rider,time savings,0.5,"('bdd', 'rider')",4
+140,BlazeIt,0.8270373223233312,0.8270373223233312,0.8270373223233312,bdd,rider,time savings,0.9,"('bdd', 'rider')",4
+141,random,1.0,1.0,1.0,bdd,rider,time savings,0.9,"('bdd', 'rider')",4
+142,this work,1.8737732656514379,1.8737732656514379,1.8737732656514379,bdd,rider,time savings,0.9,"('bdd', 'rider')",4
+143,random+,1.0419646217538576,1.0419646217538576,1.0419646217538576,bdd,rider,time savings,0.9,"('bdd', 'rider')",4
+144,BlazeIt,1.125,1.125,1.125,bdd,traffic light,savings in frames,0.1,"('bdd', 'traffic light')",7
+145,random,1.0,1.0,1.0,bdd,traffic light,savings in frames,0.1,"('bdd', 'traffic light')",7
+146,this work,1.5348837209302324,1.5348837209302324,1.5348837209302324,bdd,traffic light,savings in frames,0.1,"('bdd', 'traffic light')",7
+147,random+,1.1578947368421053,1.1578947368421053,1.1578947368421053,bdd,traffic light,savings in frames,0.1,"('bdd', 'traffic light')",7
+148,BlazeIt,1.0212355212355213,1.0212355212355213,1.0212355212355213,bdd,traffic light,savings in frames,0.5,"('bdd', 'traffic light')",7
+149,random,1.0,1.0,1.0,bdd,traffic light,savings in frames,0.5,"('bdd', 'traffic light')",7
+150,this work,1.8225667527993108,1.8225667527993108,1.8225667527993108,bdd,traffic light,savings in frames,0.5,"('bdd', 'traffic light')",7
+151,random+,1.1671263099834528,1.1671263099834528,1.1671263099834528,bdd,traffic light,savings in frames,0.5,"('bdd', 'traffic light')",7
+152,BlazeIt,0.9961866715089884,0.9961866715089884,0.9961866715089884,bdd,traffic light,savings in frames,0.9,"('bdd', 'traffic light')",7
+153,random,1.0,1.0,1.0,bdd,traffic light,savings in frames,0.9,"('bdd', 'traffic light')",7
+154,this work,1.4417871222076215,1.4417871222076215,1.4417871222076215,bdd,traffic light,savings in frames,0.9,"('bdd', 'traffic light')",7
+155,random+,1.0106853352984526,1.0106853352984526,1.0106853352984526,bdd,traffic light,savings in frames,0.9,"('bdd', 'traffic light')",7
+156,BlazeIt,0.1402284148623677,0.1402284148623677,0.1402284148623677,bdd,traffic light,time savings,0.1,"('bdd', 'traffic light')",7
+157,random,1.0,1.0,1.0,bdd,traffic light,time savings,0.1,"('bdd', 'traffic light')",7
+158,this work,1.5348837209302324,1.5348837209302324,1.5348837209302324,bdd,traffic light,time savings,0.1,"('bdd', 'traffic light')",7
+159,random+,1.1578947368421053,1.1578947368421053,1.1578947368421053,bdd,traffic light,time savings,0.1,"('bdd', 'traffic light')",7
+160,BlazeIt,0.6396649042802011,0.6396649042802011,0.6396649042802011,bdd,traffic light,time savings,0.5,"('bdd', 'traffic light')",7
+161,random,1.0,1.0,1.0,bdd,traffic light,time savings,0.5,"('bdd', 'traffic light')",7
+162,this work,1.8225667527993108,1.8225667527993108,1.8225667527993108,bdd,traffic light,time savings,0.5,"('bdd', 'traffic light')",7
+163,random+,1.1671263099834528,1.1671263099834528,1.1671263099834528,bdd,traffic light,time savings,0.5,"('bdd', 'traffic light')",7
+164,BlazeIt,0.8135866277718067,0.8135866277718067,0.8135866277718067,bdd,traffic light,time savings,0.9,"('bdd', 'traffic light')",7
+165,random,1.0,1.0,1.0,bdd,traffic light,time savings,0.9,"('bdd', 'traffic light')",7
+166,this work,1.4417871222076215,1.4417871222076215,1.4417871222076215,bdd,traffic light,time savings,0.9,"('bdd', 'traffic light')",7
+167,random+,1.0106853352984526,1.0106853352984526,1.0106853352984526,bdd,traffic light,time savings,0.9,"('bdd', 'traffic light')",7
+168,BlazeIt,1.0923076923076922,1.0923076923076922,1.0923076923076922,bdd,traffic sign,savings in frames,0.1,"('bdd', 'traffic sign')",8
+169,random,1.0,1.0,1.0,bdd,traffic sign,savings in frames,0.1,"('bdd', 'traffic sign')",8
+170,this work,1.33125,1.33125,1.33125,bdd,traffic sign,savings in frames,0.1,"('bdd', 'traffic sign')",8
+171,random+,1.1767955801104972,1.1767955801104972,1.1767955801104972,bdd,traffic sign,savings in frames,0.1,"('bdd', 'traffic sign')",8
+172,BlazeIt,1.0181241504304486,1.0181241504304486,1.0181241504304486,bdd,traffic sign,savings in frames,0.5,"('bdd', 'traffic sign')",8
+173,random,1.0,1.0,1.0,bdd,traffic sign,savings in frames,0.5,"('bdd', 'traffic sign')",8
+174,this work,1.4773175542406314,1.4773175542406314,1.4773175542406314,bdd,traffic sign,savings in frames,0.5,"('bdd', 'traffic sign')",8
+175,random+,1.1140307387208725,1.1140307387208725,1.1140307387208725,bdd,traffic sign,savings in frames,0.5,"('bdd', 'traffic sign')",8
+176,BlazeIt,0.9937678062678063,0.9937678062678063,0.9937678062678063,bdd,traffic sign,savings in frames,0.9,"('bdd', 'traffic sign')",8
+177,random,1.0,1.0,1.0,bdd,traffic sign,savings in frames,0.9,"('bdd', 'traffic sign')",8
+178,this work,1.2298369325694138,1.2298369325694138,1.2298369325694138,bdd,traffic sign,savings in frames,0.9,"('bdd', 'traffic sign')",8
+179,random+,1.0086752213988794,1.0086752213988794,1.0086752213988794,bdd,traffic sign,savings in frames,0.9,"('bdd', 'traffic sign')",8
+180,BlazeIt,0.14884883075483757,0.14884883075483757,0.14884883075483757,bdd,traffic sign,time savings,0.1,"('bdd', 'traffic sign')",8
+181,random,1.0,1.0,1.0,bdd,traffic sign,time savings,0.1,"('bdd', 'traffic sign')",8
+182,this work,1.33125,1.33125,1.33125,bdd,traffic sign,time savings,0.1,"('bdd', 'traffic sign')",8
+183,random+,1.1767955801104972,1.1767955801104972,1.1767955801104972,bdd,traffic sign,time savings,0.1,"('bdd', 'traffic sign')",8
+184,BlazeIt,0.6526319304531826,0.6526319304531826,0.6526319304531826,bdd,traffic sign,time savings,0.5,"('bdd', 'traffic sign')",8
+185,random,1.0,1.0,1.0,bdd,traffic sign,time savings,0.5,"('bdd', 'traffic sign')",8
+186,this work,1.4773175542406312,1.4773175542406312,1.4773175542406312,bdd,traffic sign,time savings,0.5,"('bdd', 'traffic sign')",8
+187,random+,1.1140307387208725,1.1140307387208725,1.1140307387208725,bdd,traffic sign,time savings,0.5,"('bdd', 'traffic sign')",8
+188,BlazeIt,0.8145088510872762,0.8145088510872762,0.8145088510872762,bdd,traffic sign,time savings,0.9,"('bdd', 'traffic sign')",8
+189,random,1.0,1.0,1.0,bdd,traffic sign,time savings,0.9,"('bdd', 'traffic sign')",8
+190,this work,1.2298369325694143,1.2298369325694143,1.2298369325694143,bdd,traffic sign,time savings,0.9,"('bdd', 'traffic sign')",8
+191,random+,1.0086752213988797,1.0086752213988797,1.0086752213988797,bdd,traffic sign,time savings,0.9,"('bdd', 'traffic sign')",8
+192,BlazeIt,1.1416666666666666,1.1416666666666666,1.1416666666666666,bdd,truck,savings in frames,0.1,"('bdd', 'truck')",6
+193,random,1.0,1.0,1.0,bdd,truck,savings in frames,0.1,"('bdd', 'truck')",6
+194,this work,1.7125,1.7125,1.7125,bdd,truck,savings in frames,0.1,"('bdd', 'truck')",6
+195,random+,1.1322314049586777,1.1322314049586777,1.1322314049586777,bdd,truck,savings in frames,0.1,"('bdd', 'truck')",6
+196,BlazeIt,1.0028719126938541,1.0028719126938541,1.0028719126938541,bdd,truck,savings in frames,0.5,"('bdd', 'truck')",6
+197,random,1.0,1.0,1.0,bdd,truck,savings in frames,0.5,"('bdd', 'truck')",6
+198,this work,1.8855291576673867,1.8855291576673867,1.8855291576673867,bdd,truck,savings in frames,0.5,"('bdd', 'truck')",6
+199,random+,1.2150313152400836,1.2150313152400836,1.2150313152400836,bdd,truck,savings in frames,0.5,"('bdd', 'truck')",6
+200,BlazeIt,0.9921568627450982,0.9921568627450982,0.9921568627450982,bdd,truck,savings in frames,0.9,"('bdd', 'truck')",6
+201,random,1.0,1.0,1.0,bdd,truck,savings in frames,0.9,"('bdd', 'truck')",6
+202,this work,1.4137839276210753,1.4137839276210753,1.4137839276210753,bdd,truck,savings in frames,0.9,"('bdd', 'truck')",6
+203,random+,1.0170367534456357,1.0170367534456357,1.0170367534456357,bdd,truck,savings in frames,0.9,"('bdd', 'truck')",6
+204,BlazeIt,0.10103378829827461,0.10103378829827461,0.10103378829827461,bdd,truck,time savings,0.1,"('bdd', 'truck')",6
+205,random,1.0,1.0,1.0,bdd,truck,time savings,0.1,"('bdd', 'truck')",6
+206,this work,1.7125000000000001,1.7125000000000001,1.7125000000000001,bdd,truck,time savings,0.1,"('bdd', 'truck')",6
+207,random+,1.1322314049586777,1.1322314049586777,1.1322314049586777,bdd,truck,time savings,0.1,"('bdd', 'truck')",6
+208,BlazeIt,0.5865000158793073,0.5865000158793073,0.5865000158793073,bdd,truck,time savings,0.5,"('bdd', 'truck')",6
+209,random,1.0,1.0,1.0,bdd,truck,time savings,0.5,"('bdd', 'truck')",6
+210,this work,1.8855291576673863,1.8855291576673863,1.8855291576673863,bdd,truck,time savings,0.5,"('bdd', 'truck')",6
+211,random+,1.2150313152400836,1.2150313152400836,1.2150313152400836,bdd,truck,time savings,0.5,"('bdd', 'truck')",6
+212,BlazeIt,0.8061014256494922,0.8061014256494922,0.8061014256494922,bdd,truck,time savings,0.9,"('bdd', 'truck')",6
+213,random,1.0,1.0,1.0,bdd,truck,time savings,0.9,"('bdd', 'truck')",6
+214,this work,1.4137839276210753,1.4137839276210753,1.4137839276210753,bdd,truck,time savings,0.9,"('bdd', 'truck')",6
+215,random+,1.0170367534456357,1.0170367534456357,1.0170367534456357,bdd,truck,time savings,0.9,"('bdd', 'truck')",6
